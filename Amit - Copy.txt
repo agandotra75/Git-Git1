@@ -1,3 +1,0 @@
-This is a mit
-
-I am a java developer. This is a test file.
